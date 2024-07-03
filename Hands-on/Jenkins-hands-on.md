@@ -33,9 +33,9 @@
 
 [Refer offline plugin download page](https://updates.jenkins.io/download/plugins/).
 
-[Refer this repo for homework](https://github.com/vistasunil/jenkins-terraform-docker-webinar.git).
+[Refer this repo for homework](https://github.com/akaspatranobis/jenkins-terraform-docker-webinar).
 
-[Refer this repo to install Jenkins on Kubernetes Cluster](https://github.com/vistasunil/Jenkins-on-Kubernetes.git)
+[Refer this repo to install Jenkins on Kubernetes Cluster](https://github.com/akaspatranobis/Jenkins-on-Kubernetes.git)
 
 First, we have created 3 instances Master Slave1and Slave2. And then we have installed the Jenkins on Master Machine. Now Let us set up the Jenkins Master-Slave Cluster.
 
